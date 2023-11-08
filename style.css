@@ -1,0 +1,42 @@
+body{
+    background-size: cover;
+    background-attachment: scroll;
+
+    margin-top: 8%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tvcontent{
+    margin-left: 7%;
+    width: 430px;
+    height: 400px;
+}
+
+.controle{
+    padding-left: 30px;
+    padding-top: 23px;
+    width: 200px;
+    height: 480px;
+    margin-right: 5%;
+    float: right;
+    background-image: url(img/controle.png);
+    background-size: 180px;
+    background-repeat: no-repeat;
+}
+
+.cima{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.baixo{
+}
+
+button{
+    margin-right: 20px;
+    color: rgb(2, 43, 24);
+    background-color: rgb(236, 247, 241);
+    border-radius: 5px;
+    border: solid 2px rgb(26, 37, 31);
+}
